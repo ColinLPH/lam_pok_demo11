@@ -1,1 +1,31 @@
 
+
+.bg-info {
+    background-color: #8F3985 !important;
+}
+
+.navbar-light .navbar-brand {
+    color: #EFD9CE;
+}
+
+.btn-primary {
+    color: #EFD9CE;
+    background-color: #a675A1;
+    border-color: #25283D;
+}
+
+.btn-primary:hover {
+    color: #fff;
+    background-color: #25283D;
+    border-color: #a675A1;
+  }
+
+.navbar-brand{
+    font-family: 'Roboto Condensed', sans-serif, cursive;
+    font-size: 2.25rem;
+}
+
+.jumbotron{
+    color:darkgoldenrod;
+    background-color: darkslateblue;
+}
